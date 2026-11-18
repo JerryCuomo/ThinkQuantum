@@ -49,5 +49,5 @@ Jerry Cuomo is a retired IBM Fellow and one of the founders of WebSphere softwar
 
 &copy; 2026 Wild Ducks LLC. Companion notebooks for *Think Quantum* by Jerry Cuomo.
 
-<!-- Decision needed: choose the code license (for example MIT, covering the notebook code only) and add a LICENSE file to the repo. Suggested wording once chosen: "The code in these notebooks is released under the MIT License. The book's text and illustrations are not covered by that license." -->
+The code in this repository is licensed under the [Apache License 2.0](LICENSE). The book itself, including its text and illustrations, is not part of this repository and is not covered by that license.
 
